@@ -1,5 +1,5 @@
 {
-    "name": "sergix44/gradio-client-php",
+    "name": "purewater2011/gradio-client-php",
     "description": "Gradio client for PHP",
     "keywords": [
         "SergiX44",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": "^8.2",
+        "php": ">=7.3",
         "guzzlehttp/guzzle": "^7.7",
         "nutgram/hydrator": "^5.0",
         "textalk/websocket": "^1.6",
