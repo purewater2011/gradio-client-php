@@ -16,9 +16,9 @@
     ],
     "require": {
         "php": ">=7.3",
-        "guzzlehttp/guzzle": "^7.7",
-        "nutgram/hydrator": "^5.0",
-        "textalk/websocket": "^1.6",
+        "guzzlehttp/guzzle": "*",
+        "nutgram/hydrator": "*",
+        "textalk/websocket": "*",
         "ext-fileinfo": "*"
     },
     "require-dev": {
